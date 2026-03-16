@@ -41,7 +41,9 @@ This project is in active early development. So far:
 
 ![gameplay preview](Assets/Media/GhostKidDemo.gif)
 
+
 the Demo-Background-Tileset used : https://finalbossblues.itch.io/cloud-city-tileset
+
 ---
 
 ##  Art Direction
