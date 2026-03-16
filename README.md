@@ -58,7 +58,7 @@ Hand-pixeled SNES-era aesthetic. Every sprite is made manually as part of the pr
 
 ---
 
-## 🛠 Built With
+##  Built With
 
 - Unity
 - C#
