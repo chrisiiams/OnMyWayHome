@@ -14,8 +14,8 @@ And if the rumors are true, the ghost of a young kid haunts the graveyard after 
 ---
 
 **On My Way Home** is a Halloween-themed JRPG set in the sleepy small town of Basswood. 
-Inspired by the games I grew up loving — think Earthbound, think SNES — it's a solo 
-learning project where I'm building everything from scratch: the code, the art, the design.
+Inspired by the games I grew up loving (Earthbound, Pokemon, Final FAntasy, Dragon Quest etc...).
+It's a solo learning project where I'm building everything from scratch: the code, the art, the design.
 
 Forests, graveyards, aliens, witches, and one very annoying gang of kids in skull masks. 
 Basswood has secrets. Go find them.
