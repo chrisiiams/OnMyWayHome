@@ -70,6 +70,5 @@ Hand-pixeled SNES-era aesthetic. Every sprite is made manually as part of the pr
 
 Made by **Chris Iiams** — aspiring software developer, currently training as a 
 Fachinformatiker für Anwendungsentwicklung. This project is my hands-on playground 
-for learning Unity, game architecture, sprite animation and RPG design.
-
-If it looks rough around the edges — that's kind of the point.
+for learning Unity, game architecture, sprite animation and RPG design. 
+Also to deepen my understanding of different programming principles.
